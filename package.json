@@ -1,0 +1,22 @@
+{
+  "name": "comic-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstadz/comic-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstadz/comic-site/issues"
+  },
+  "homepage": "https://github.com/dstadz/comic-site#readme",
+  "dependencies": {
+    "hover.css": "^2.3.2"
+  }
+}
