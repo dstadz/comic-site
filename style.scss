@@ -12,17 +12,21 @@ img{
 }
 
 ul.nav.justify-content-center{
-    background-color: green;
+    background-color: silver;
+    border-top: 3px  green solid;
+    border-bottom: 3px  green solid;
     li.nav-item{
         margin: 0 2vh;
-        background-color: blue;
+        background-color: rgb(217, 255, 0);
         a.nav-link{
             color: red;
         }
     }
 }
 
-.comic{
+.sketchfab-embed-wrapper{
+    width: 800px;
+    height: width;
     display: inline-block;
     margin: 0 auto;
 }
@@ -39,6 +43,6 @@ ul.nav.justify-content-center{
     transition-property: transform;
   }
   .hvr-grow-rotate:hover, .hvr-grow-rotate:focus, .hvr-grow-rotate:active {
-    -webkit-transform: scale(1.1) rotate(356deg);
-    transform: scale(1.1) rotate(184);
+    -webkit-transform: scale(1.5) rotate(345deg);
+    transform: scale(1.1) rotate(345deg);
   }
