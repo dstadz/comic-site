@@ -26,6 +26,11 @@ ul.nav.justify-content-center li.nav-item a.nav-link {
   color: red;
 }
 
+ul.nav.justify-content-center.page-flip {
+  width: 50%;
+  background: blue;
+}
+
 .sketchfab-embed-wrapper {
   width: 800px;
   height: width;
